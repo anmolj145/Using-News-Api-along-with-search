@@ -1,0 +1,1 @@
+export const GET_DATA = "https://newsapi.org/v2/top-headlines?country=us&apiKey=44ffb865d7e0433e80bb08e1ca43c9a3"

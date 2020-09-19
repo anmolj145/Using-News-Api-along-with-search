@@ -1,0 +1,13 @@
+.header{
+    padding-left: 20px;
+}
+
+.radio-div{
+    float:right ;
+    margin-right: 20px;
+}
+
+.radio-btn{
+    display: inline-block;
+    margin-right: 10px;
+}
